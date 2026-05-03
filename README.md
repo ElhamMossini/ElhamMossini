@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p border="1px solid red">
+<p>
   <a href="https://instagram.com/kullaniciadin](https://www.instagram.com/elhaam._m/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20"/>
   </a>
